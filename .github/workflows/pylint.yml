@@ -1,4 +1,4 @@
-name: Run Pylint
+name: Check PEP8 Strictly
 
 on: [workflow_dispatch]
 
